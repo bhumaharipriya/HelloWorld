@@ -8,6 +8,8 @@ namespace HelloWorld
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Oranges");
+            Console.WriteLine("grapes");
+            Console.WriteLine("mangoes");
         }
     }
 }
